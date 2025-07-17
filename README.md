@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="margin: 32px 0 32px 0;">
-  <img src="https://raw.githubusercontent.com/touchnanotouch/touchnanotouch/main/assets/mandelbrot.png" height="180" alt="mandelbrot fractal"/>
+  <img src="https://raw.githubusercontent.com/touchnanotouch/touchnanotouch/main/assets/minimal_harmonograph.gif" height="180" alt="harmonograph"/>
 </p>
 
 <p align="center" style="margin-top: 32px;">
