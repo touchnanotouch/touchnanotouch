@@ -1,8 +1,8 @@
-<svg width="1000" height="18" viewBox="0 0 1000 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0 9 Q 125 0 250 9 T 500 9 T 750 9 T 1000 9" stroke="#222" stroke-width="2" fill="none">
-    <animate attributeName="d" dur="3s" repeatCount="indefinite"
-      values="M0 9 Q 125 0 250 9 T 500 9 T 750 9 T 1000 9;
-              M0 9 Q 125 18 250 9 T 500 9 T 750 9 T 1000 9;
-              M0 9 Q 125 0 250 9 T 500 9 T 750 9 T 1000 9"/>
+<svg width="1000" height="16" viewBox="0 0 1000 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path id="wave" d="M0 8 Q 125 4 250 8 T 500 8 T 750 8 T 1000 8" stroke="#222" stroke-width="2" fill="none">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="M0 8 Q 125 4 250 8 T 500 8 T 750 8 T 1000 8;
+              M0 8 Q 125 12 250 8 T 500 8 T 750 8 T 1000 8;
+              M0 8 Q 125 4 250 8 T 500 8 T 750 8 T 1000 8"/>
   </path>
 </svg>
