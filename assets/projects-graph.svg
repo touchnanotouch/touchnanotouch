@@ -1,7 +1,0 @@
-<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="80" cy="90" r="32" stroke="#222" stroke-width="2" fill="#fff"/>
-      <circle cx="240" cy="90" r="32" stroke="#222" stroke-width="2" fill="#fff"/>
-      <text x="80" y="95" text-anchor="middle" font-size="18" fill="#222" font-family="monospace">vacsh</text>
-      <text x="240" y="95" text-anchor="middle" font-size="18" fill="#222" font-family="monospace">ZAMath</text>
-      <line x1="112" y1="90" x2="208" y2="90" stroke="#222" stroke-width="2"/>
-    </svg>
