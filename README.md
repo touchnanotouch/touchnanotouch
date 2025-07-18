@@ -12,6 +12,12 @@
   <img src="https://raw.githubusercontent.com/touchnanotouch/touchnanotouch/main/assets/minimal_harmonograph.gif" height="180" alt="harmonograph"/>
 </p>
 
+<!-- Автоматическая полоска языков (стилизованная) -->
+<p align="center" style="margin-bottom: 24px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touchnanotouch&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=bbb&text_color=bbb&icon_color=bbb&hide_title=true" alt="Languages"/>
+</p>
+
+
 <p align="center" style="margin-top: 32px;">
   <a href="mailto:marmoraven@gmail.com"><img src="https://img.shields.io/badge/email-222?style=for-the-badge&logo=gmail&logoColor=bbb"/></a>
   <a href="https://t.me/ghlftcx"><img src="https://img.shields.io/badge/telegram-222?style=for-the-badge&logo=telegram&logoColor=bbb"/></a>
