@@ -14,7 +14,7 @@
 
 <!-- Автоматическая полоска языков (стилизованная) -->
 <p align="center" style="margin-bottom: 24px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touchnanotouch&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=bbb&text_color=bbb&icon_color=bbb&hide_title=true" alt="Languages"/>
+  <img src="github-readme-stats-31nzzc7do-maxs-projects-b58a3bfe.vercel.app/api/top-langs/?username=touchnanotouch&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=bbb&text_color=bbb&icon_color=bbb&hide_title=true" alt="Languages"/>
 </p>
 
 
