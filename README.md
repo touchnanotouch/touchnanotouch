@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 24px;">
-  <img src="https://github-readme-stats-five-sandy-78.vercel.app/api/top-langs/?username=touchnanotouch&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=bbb&text_color=bbb&icon_color=bbb&hide_title=true&hide=html,css,scss" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touchnanotouch&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=bbb&text_color=bbb&icon_color=bbb&hide_title=true&hide=html,css,scss" alt="Languages"/>
 </p>
 
 
