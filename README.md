@@ -5,6 +5,7 @@
 <p align="center" style="margin-bottom: 24px;">
   <img src="https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python&logoColor=bbb"/>
   <img src="https://img.shields.io/badge/C++-222?style=for-the-badge&logo=cplusplus&logoColor=bbb"/>
+  <img src="https://img.shields.io/badge/Go-222?style=for-the-badge&logo=go&logoColor=bbb"/>
   <img src="https://img.shields.io/badge/Rust-222?style=for-the-badge&logo=rust&logoColor=bbb"/>
 </p>
 
