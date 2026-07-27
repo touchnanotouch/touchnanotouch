@@ -17,7 +17,3 @@
   <a href="mailto:marmoraven@gmail.com"><img src="https://img.shields.io/badge/email-222?style=for-the-badge&logo=gmail&logoColor=bbb"/></a>
   <a href="https://t.me/ghlftcx"><img src="https://img.shields.io/badge/telegram-222?style=for-the-badge&logo=telegram&logoColor=bbb"/></a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff,100:222&height=80&section=footer&text=peepee%20%7C%20poopoo&fontColor=666&fontSize=28&fontAlignY=60"/>
-</p>
